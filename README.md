@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srt9930&label=Profile%20views&color=0e75b6&style=flat" alt="srt9930" /> </p>
 
-- 🔭 I’m currently working at Hansen Technologies. [Hansen OM - VMO2](https://www.hansencx.com/hansen-suite/communications/hansen-om/)
+- 🔭 I’m currently working at Hansen Technologies [(Project: Hansen OM - VMO2)](https://www.hansencx.com/hansen-suite/communications/hansen-om/)
 
-- 🌱 I’m currently learning frontend development. **React ⚛️**
+- 🌱 I’m currently learning frontend development with **React ⚛️**
 
 - 👨‍💻 All of my projects are available at [https://www.srtexpo.me/](https://www.srtexpo.me/)
 
-- 📫 How to reach me **srt9930@gmail.com**
+- 📫 You can reach me at **srt9930@gmail.com**
 
 - 📄 Know about my experiences [https://www.srtexpo.me/assets/resume.pdf](https://www.srtexpo.me/assets/resume.pdf)
 
